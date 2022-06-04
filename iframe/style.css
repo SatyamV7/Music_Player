@@ -18,6 +18,10 @@
   --pinkshadow: #ffcbdd;
   --lightbshadow: rgba(0,0,0,0.15);
 }
+body{
+    width: 380px;
+    height: 592px;
+}
 .wrapper{
   width: 380px;
   padding: 25px 30px;
